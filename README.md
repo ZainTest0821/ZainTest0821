@@ -1,5 +1,5 @@
 **👋 Hi, I'm Zain Ul Abdeen**
-**🚀 Software QA Engineer (Manual & Automation) | 3 + Years Experience**
+**🚀 Software QA Engineer (Manual & Automation) | 3.5 + Years Experience**
 
 ✅ Expert in Selenium, Playwright, API Testing, CRM Testing, AI Based Automation, and Appium
 
